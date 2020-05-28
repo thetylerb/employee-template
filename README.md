@@ -2,7 +2,8 @@
 
 ## Create and use a CLI to create the HTML!
 
-<img src='/images/output.png'>
+![](images/output.PNG)
+![](images/terminal-app.PNG)
 
 ## Table of Contents
 1.
