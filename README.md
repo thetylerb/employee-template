@@ -2,7 +2,7 @@
 
 ## Create and use a CLI to create the HTML!
 
-![Employee-Profiles](images/output.png)
+<img src='/images/output.png'>
 
 ## Table of Contents
 1.
